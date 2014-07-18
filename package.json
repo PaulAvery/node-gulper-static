@@ -1,0 +1,16 @@
+{
+  "name": "gulper-static",
+  "version": "0.0.1",
+  "description": "A gulper plugin to pass through files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulAvery/sails-gulper-static.git"
+  },
+  "keywords": [
+    "gulper",
+    "gulp"
+  ],
+  "author": "Florian Albertz",
+  "license": "MIT"
+}
