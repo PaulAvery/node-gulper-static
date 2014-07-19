@@ -8,7 +8,7 @@ module.exports = {
 			streamer: function(input) {
 				return input;
 			}
-		}
+		};
 	},
 	js: function(glob, base) {
 		return {
@@ -19,7 +19,7 @@ module.exports = {
 			streamer: function(input) {
 				return input;
 			}
-		}
+		};
 	},
 	assets: function(glob, base) {
 		return {
@@ -30,6 +30,6 @@ module.exports = {
 			streamer: function(input) {
 				return input;
 			}
-		}
+		};
 	}
 };
